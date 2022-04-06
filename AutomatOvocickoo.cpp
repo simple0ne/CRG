@@ -1,7 +1,7 @@
 
-#include <iostream>
-#include <cstdlib>
-#include <ctime>
+#include <iostream> // hlavicka v c++, zodpovedna za vstup a vystup
+#include <cstdlib> //definuje funkcie, ulahcuje kod c++
+#include <ctime> //
 #include <string>
 #include <stdlib.h>
 using namespace std;
