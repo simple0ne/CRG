@@ -1,9 +1,9 @@
 
 #include <iostream> // hlavicka v c++, zodpovedna za vstup a vystup
 #include <cstdlib> //definuje funkcie, ulahcuje kod c++
-#include <ctime> //
-#include <string>
-#include <stdlib.h>
+#include <ctime> //ukazuje citatelnu hodnotu casu a datumu
+#include <string> //premenna ktora uklada postupnost pismen alebo znakov
+#include <stdlib.h> //hlavicka, ktora sa pouziva na poctove operacie s cislami a generovanie nahodnych cisel
 using namespace std;
 
 void switchStatementsCalculations(int& rada1, int& rada2, int& rada3, string jablko, string ceresna, string melon);
