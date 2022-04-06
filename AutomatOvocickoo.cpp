@@ -57,8 +57,8 @@ int main()
         cin >> znovu;
         if (znovu != "ano")
         {
-            cout << "The total amount of money you put in the slot machine is " << vlozenecash << endl;
-            cout << "The total amount of money you won is $" << celkom << endl;
+            cout << "Peniaze ktore si vlozil do automatu: " << vlozenecash << endl;
+            cout << "Peniaze ktore si vyhral: " << celkom << endl;
         }
 
     } while (znovu == "ano");
